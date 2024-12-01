@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MTKabir](https://github.com/MTKabir)
 
-- 💬 Ask me about **JavaScript, React, Vue, Node.js, Express.js, Java, C#, Php**
+- 💬 Ask me about **JavaScript, React, Vue, Node.js, Express.js, Django,Python, Java, C#, Php**
 
 - 📫 How to reach me **mdtasnimkabir@gmail.com**
 
